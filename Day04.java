@@ -32,24 +32,17 @@ class Solution {
 
 //Diameter of Binary Tree
 class Solution {
-    private int diameter = 0;
-
+    int diameter = 0 ;
     public int diameterOfBinaryTree(TreeNode root) {
-        height(root);
+        longestPath(root);
         return diameter;
     }
-
-    private int height(TreeNode node) {
-        if (node == null) {
-            return 0;
-        }
-
-        int leftHeight = height(node.left);
-        int rightHeight = height(node.right);
-
-        diameter = Math.max(diameter, leftHeight + rightHeight);
-
-        return 1 + Math.max(leftHeight, rightHeight);
+    private int longestPath(TreeNode root){
+        if (root == null) return 0;
+      int leftPath = longestPath(root.left);
+      int rightPath = longestPath(root.right);
+      diameter = Math.max(leftPath + rightPath,diameter);
+      return Math.max(leftPath,rightPath)+1;
     }
 }
 
@@ -72,21 +65,22 @@ class Solution {
 //Convert Sorted Array to Binary Search Tree
 class Solution {
     public TreeNode sortedArrayToBST(int[] nums) {
-        return buildBST(nums, 0, nums.length - 1);
+        if(nums.length== 0) return null;
+        return getBST(nums, 0, nums.length - 1);
     }
 
-    private TreeNode buildBST(int[] nums, int left, int right) {
+    public TreeNode getBST(int[] nums, int left, int right) {
         if (left > right) {
             return null;
         }
 
-        int mid = left + (right - left) / 2;
+        int mid = (left+right) / 2;
 
-        TreeNode root = new TreeNode(nums[mid]);
+        TreeNode bst = new TreeNode(nums[mid]);
 
-        root.left = buildBST(nums, left, mid - 1);
-        root.right = buildBST(nums, mid + 1, right);
+        bst.left = getBST(nums, left, mid - 1);
+        bst.right = getBST(nums, mid + 1, right);
 
-        return root;
+        return bst;
     }
 }
