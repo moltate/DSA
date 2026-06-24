@@ -62,3 +62,33 @@ class Solution {
         return minLen == Integer.MAX_VALUE ? "" : s.substring(start, start + minLen);
     }
 }
+
+
+//Longest Substring with K Uniques
+
+class Solution {
+    public int longestKSubstr(String s, int k) {
+        Map<Character,Integer> map = new HashMap<>();
+        
+        int left = 0, maxLen = -1;
+        
+        for (int right = 0; right < s.length() ; right++){
+            char r = s.charAt(right);
+            map.put(r, map.getOrDefault(r, 0)+1);
+            
+            while(map.size() > k){
+                char l = s.charAt(left);
+                map.put(l, map.getOrDefault(l, 0) - 1);
+                
+                if(map.get(l) == 0){
+                map.remove(l);
+            }
+            left++;
+        }
+            if(map.size() == k){
+                maxLen = Math.max(maxLen, right - left + 1);
+            }
+        }
+        return maxLen;
+    }
+}
