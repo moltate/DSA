@@ -60,3 +60,31 @@ class Solution {
         return new ArrayList<>(map.values());
     }
 }
+
+//Insertion Sort List
+
+class Solution {
+
+    public ListNode insertionSortList(ListNode head) {
+
+        ListNode dummy = new ListNode(0);
+
+        while (head != null) {
+
+            ListNode next = head.next;
+
+            ListNode prev = dummy;
+
+            while (prev.next != null && prev.next.val < head.val) {
+                prev = prev.next;
+            }
+
+            head.next = prev.next;
+            prev.next = head;
+
+            head = next;
+        }
+
+        return dummy.next;
+    }
+}
