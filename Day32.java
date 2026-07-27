@@ -103,3 +103,19 @@ class Solution {
         return max1 * max2;
     }
 }
+
+//Excel Sheet Column Title
+
+class Solution {
+    public String convertToTitle(int columnNumber) {
+        String ans = "";
+        int n = columnNumber;
+        
+        while(n>0){
+            n--;
+            ans = (char)('A' + n % 26) + ans;
+            n= n/26;
+        }
+        return ans;
+    }
+}
