@@ -53,3 +53,27 @@ class Solution {
         return dp[0][n - 1] >= 0;
     }
 }
+
+//Maximum Matching of Players with Trainers
+
+class Solution {
+    public int matchPlayersAndTrainers(int[] players, int[] trainers) {
+        Arrays.sort(players);
+        Arrays.sort(trainers);
+
+        int player = 0;
+        int trainer = 0;
+
+        while (player < players.length && trainer < trainers.length) {
+
+            if (trainers[trainer] >= players[player]) {
+                player++;
+                trainer++;
+            } else {
+                trainer++;
+            }
+        }
+
+        return player;
+    }
+}
