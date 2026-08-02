@@ -96,3 +96,53 @@ class Solution {
       return(dp[amount] > amount ? -1 : dp[amount]);
     }
 }
+
+
+//Permutations
+
+class Solution {
+    public List<List<Integer>> permute(int[] nums) {
+        List<List<Integer>> result = new ArrayList<>();
+        backtrack(result, new ArrayList<>() , nums);
+        return result;
+    }
+    public void backtrack(List<List<Integer>> result, List<Integer> temp, int[] nums){
+        if(temp.size() == nums.length){
+          result.add(new ArrayList<>(temp));
+          return;
+        }
+        for(int i = 0 ; i < nums.length; i++){
+            if(temp.contains(nums[i])) continue;
+            temp.add(nums[i]);
+            backtrack(result, temp, nums);
+            temp.remove(temp.size() - 1);
+        }
+    }
+}
+
+//Permutations II
+
+class Solution {
+    public List<List<Integer>> permuteUnique(int[] nums) {
+        List<List<Integer>> result = new ArrayList<>();
+        Arrays.sort(nums);
+        boolean[] used =  new boolean[nums.length];
+        backtrack(result, new ArrayList<>() , nums, used);
+        return result;
+    }
+    public void backtrack(List<List<Integer>> result, List<Integer> temp, int[] nums, boolean[] used){
+        if(temp.size() == nums.length){
+            result.add(new ArrayList<>(temp));
+            return;
+        }
+        for(int  i = 0; i< nums.length; i++){
+            if(used[i]) continue;
+            if(i>0 && nums[i] == nums[i-1] && !used[i-1]) continue;
+            used[i] = true;
+            temp.add(nums[i]);
+            backtrack(result, temp, nums, used);
+            temp.remove(temp.size() - 1);
+            used[i]= false;
+        }
+    }
+}
