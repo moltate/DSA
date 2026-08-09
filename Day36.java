@@ -60,3 +60,43 @@ class Solution {
         return ans;
     }
 }
+
+//Stone Game II
+
+class Solution {
+
+    int remainingStones[];
+
+    public int stoneGameII(int[] piles) {
+
+        int n = piles.length;
+
+        remainingStones = new int[n + 1];
+
+        for (int i = n - 1; i >= 0; i--) {
+
+            remainingStones[i] = piles[i] + remainingStones[i + 1];
+
+        }
+
+        int dp[][] = new int[n + 1][n + 1];
+
+        for (int i = n - 1; i >= 0; i--) {
+            for (int j = 1; j <= n; j++) {
+
+                for (int k = 1; k <= 2*j; k++) {
+
+                    if (i + k <= n) {
+
+                        dp[i][j] = Math.max(dp[i][j], remainingStones[i] - dp[i + k][Math.max(k, j)]);
+                    }
+
+                }
+
+            }
+        }
+
+        return dp[0][1];
+
+    }
+}
