@@ -29,3 +29,18 @@ class Solution:
                 j += 1
         
         return dp[n]
+
+//Contains Duplicate II
+
+
+class Solution:
+    def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
+        nums_to_i = {}
+        n = len(nums)
+        for i in range(n):
+            if nums[i] in nums_to_i:
+                if(abs(nums_to_i[nums[i]] - i)) <= k:
+                    return True
+            nums_to_i[nums[i]] = i
+             
+        return False
