@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/moltate/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/moltate/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/moltate/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/moltate/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/moltate/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## String
+|  |
+| ------- |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/moltate/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
