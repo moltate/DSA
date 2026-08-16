@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/moltate/DSA/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/moltate/DSA/tree/master/0204-count-primes) |
 | [2002-stone-game-viii](https://github.com/moltate/DSA/tree/master/2002-stone-game-viii) |
+| [2156-stone-game-ix](https://github.com/moltate/DSA/tree/master/2156-stone-game-ix) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/moltate/DSA/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/moltate/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/moltate/DSA/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/moltate/DSA/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/moltate/DSA/tree/master/0319-bulb-switcher) |
 | [2002-stone-game-viii](https://github.com/moltate/DSA/tree/master/2002-stone-game-viii) |
+| [2156-stone-game-ix](https://github.com/moltate/DSA/tree/master/2156-stone-game-ix) |
 ## Brainteaser
 |  |
 | ------- |
@@ -87,12 +89,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2002-stone-game-viii](https://github.com/moltate/DSA/tree/master/2002-stone-game-viii) |
+| [2156-stone-game-ix](https://github.com/moltate/DSA/tree/master/2156-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [2002-stone-game-viii](https://github.com/moltate/DSA/tree/master/2002-stone-game-viii) |
+| [2156-stone-game-ix](https://github.com/moltate/DSA/tree/master/2156-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [2002-stone-game-viii](https://github.com/moltate/DSA/tree/master/2002-stone-game-viii) |
+| [2156-stone-game-ix](https://github.com/moltate/DSA/tree/master/2156-stone-game-ix) |
+## Greedy
+|  |
+| ------- |
+| [2156-stone-game-ix](https://github.com/moltate/DSA/tree/master/2156-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2156-stone-game-ix](https://github.com/moltate/DSA/tree/master/2156-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2156-stone-game-ix](https://github.com/moltate/DSA/tree/master/2156-stone-game-ix) |
 <!---LeetCode Topics End-->
