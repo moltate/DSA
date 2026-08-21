@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/moltate/DSA/tree/master/0036-valid-sudoku) |
 | [0152-maximum-product-subarray](https://github.com/moltate/DSA/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/moltate/DSA/tree/master/0204-count-primes) |
 | [1487-cinema-seat-allocation](https://github.com/moltate/DSA/tree/master/1487-cinema-seat-allocation) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/moltate/DSA/tree/master/0036-valid-sudoku) |
 | [1487-cinema-seat-allocation](https://github.com/moltate/DSA/tree/master/1487-cinema-seat-allocation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/moltate/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/moltate/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/moltate/DSA/tree/master/0036-valid-sudoku) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/moltate/DSA/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Prefix Sum
 |  |
