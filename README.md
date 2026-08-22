@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/moltate/DSA/tree/master/0319-bulb-switcher) |
 | [2002-stone-game-viii](https://github.com/moltate/DSA/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/moltate/DSA/tree/master/2156-stone-game-ix) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/moltate/DSA/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Brainteaser
 |  |
 | ------- |
