@@ -1,8 +1,9 @@
 class Solution:
     def missingMultiple(self, nums: List[int], k: int) -> int:
-        nums.sort()
-        a = k
-        for i in nums:
-            if i == a:
-                a += k
-        return a
+        s = set(nums)
+        i = 1
+        while True:
+            if i*k not in nums:
+                return i*k
+            else:
+                i += 1
