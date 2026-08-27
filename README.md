@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/moltate/DSA/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/moltate/DSA/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/moltate/DSA/tree/master/0048-rotate-image) |
 | [0152-maximum-product-subarray](https://github.com/moltate/DSA/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/moltate/DSA/tree/master/0204-count-primes) |
 | [1487-cinema-seat-allocation](https://github.com/moltate/DSA/tree/master/1487-cinema-seat-allocation) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/moltate/DSA/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/moltate/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/moltate/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/moltate/DSA/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/moltate/DSA/tree/master/0319-bulb-switcher) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/moltate/DSA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/moltate/DSA/tree/master/0048-rotate-image) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/moltate/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/moltate/DSA/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Prefix Sum
