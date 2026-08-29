@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/moltate/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/moltate/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/moltate/DSA/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/moltate/DSA/tree/master/0148-sort-list) |
 | [2481-strictly-palindromic-number](https://github.com/moltate/DSA/tree/master/2481-strictly-palindromic-number) |
 ## Backtracking
 |  |
@@ -169,5 +171,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/moltate/DSA/tree/master/0148-sort-list) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/moltate/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/moltate/DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/moltate/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
