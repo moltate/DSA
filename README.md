@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2002-stone-game-viii](https://github.com/moltate/DSA/tree/master/2002-stone-game-viii) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/moltate/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2156-stone-game-ix](https://github.com/moltate/DSA/tree/master/2156-stone-game-ix) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/moltate/DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/moltate/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/moltate/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/moltate/DSA/tree/master/2508-maximum-sum-of-an-hourglass) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-cinema-seat-allocation](https://github.com/moltate/DSA/tree/master/1487-cinema-seat-allocation) |
 | [2039-sum-game](https://github.com/moltate/DSA/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/moltate/DSA/tree/master/2156-stone-game-ix) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/moltate/DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Counting
 |  |
 | ------- |
