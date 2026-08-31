@@ -1,17 +1,12 @@
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-
         List<Integer> index = new ArrayList<>();
-
         int idx = 1;
-
         ListNode prev = head;
         ListNode curr = head.next;
 
         while (curr.next != null) {
-
             ListNode next = curr.next;
-
             boolean isMax = curr.val > prev.val && curr.val > next.val;
             boolean isMin = curr.val < prev.val && curr.val < next.val;
 
