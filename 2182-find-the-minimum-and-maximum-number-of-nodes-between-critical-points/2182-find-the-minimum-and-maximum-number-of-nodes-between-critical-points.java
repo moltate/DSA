@@ -1,9 +1,9 @@
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-        List<Integer> index = new ArrayList<>();
-        int idx = 1;
         ListNode prev = head;
         ListNode curr = head.next;
+        int idx = 1, first = -1, last = -1;
+        int minDist = Integer.MAX_VALUE;
 
         while (curr.next != null) {
             ListNode next = curr.next;
@@ -11,7 +11,12 @@ class Solution {
             boolean isMin = curr.val < prev.val && curr.val < next.val;
 
             if (isMax || isMin) {
-                index.add(idx);
+                if(last == -1){
+                    first = idx;
+                }else{
+                    minDist = Math.min(minDist, idx -  last);
+                }
+                last = idx;
             }
 
             prev = curr;
@@ -19,18 +24,11 @@ class Solution {
             idx++;
         }
 
-        if (index.size() < 2) {
+        if (first == -1 || first == last) {
             return new int[]{-1, -1};
         }
 
-        int minDist = Integer.MAX_VALUE;
-
-        for (int i = 1; i < index.size(); i++) {
-            int distance = index.get(i) - index.get(i - 1);
-            minDist = Math.min(minDist, distance);
-        }
-
-        int maxDist = index.get(index.size() - 1) - index.get(0);
+        int maxDist = last - first;
 
         return new int[]{minDist, maxDist};
     }
