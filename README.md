@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/moltate/DSA/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/moltate/DSA/tree/master/0204-count-primes) |
 | [1487-cinema-seat-allocation](https://github.com/moltate/DSA/tree/master/1487-cinema-seat-allocation) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/moltate/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2002-stone-game-viii](https://github.com/moltate/DSA/tree/master/2002-stone-game-viii) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/moltate/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2156-stone-game-ix](https://github.com/moltate/DSA/tree/master/2156-stone-game-ix) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/moltate/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/moltate/DSA/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/moltate/DSA/tree/master/0319-bulb-switcher) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/moltate/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2002-stone-game-viii](https://github.com/moltate/DSA/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/moltate/DSA/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/moltate/DSA/tree/master/2156-stone-game-ix) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/moltate/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/moltate/DSA/tree/master/0050-powx-n) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/moltate/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/moltate/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/moltate/DSA/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
@@ -184,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/moltate/DSA/tree/master/0148-sort-list) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/moltate/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
