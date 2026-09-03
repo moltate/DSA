@@ -1,17 +1,10 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
-        int ans = Integer.MAX_VALUE;
-        int min = ans;
+        int minOdd= Integer.MAX_VALUE, minEven = Integer.MAX_VALUE ;
+
         for(int x : nums1){
-            if(x % 2 == 1){
-                min = Math.min(min,x);
-            }
-        }
-        for(int x : nums1){
-            if(x % 2 == 0 && min != ans && x < min){
-                return false;
-            }
-        }
-        return true;        
+            int ans = (x % 2 == 1) ? (minOdd = Math.min(minOdd,x)) : (minEven = Math.min(minEven,x));
+        }  
+        return (minOdd == Integer.MAX_VALUE) ? true : (minEven > minOdd ); 
     }
 }
