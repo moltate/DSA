@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/moltate/DSA/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/moltate/DSA/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4256-construct-uniform-parity-array-i](https://github.com/moltate/DSA/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/moltate/DSA/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/moltate/DSA/tree/master/2481-strictly-palindromic-number) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/moltate/DSA/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4256-construct-uniform-parity-array-i](https://github.com/moltate/DSA/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/moltate/DSA/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Brainteaser
 |  |
 | ------- |
