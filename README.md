@@ -206,4 +206,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/moltate/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/moltate/DSA/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/moltate/DSA/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/moltate/DSA/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
