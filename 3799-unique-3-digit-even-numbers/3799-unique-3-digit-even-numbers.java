@@ -6,11 +6,8 @@ class Solution {
             for (int j = 0; j < digits.length; j++) {
                 for (int k = 0; k < digits.length; k++) {
                       if (i != j && j != k && i != k) {
-                        int a = digits[i];
-                        int b = digits[j];
-                        int c = digits[k];
-                        if (a != 0 && c % 2 == 0) {
-                            int num = a * 100 + b * 10 + c;
+                        if (digits[i] != 0 && digits[k] % 2 == 0) {
+                            int num = digits[i] * 100 +  digits[j] * 10 + digits[k];
                             nums.add(num);
                         }
                     }
