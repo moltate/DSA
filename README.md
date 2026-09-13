@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/moltate/DSA/tree/master/0048-rotate-image) |
 | [0152-maximum-product-subarray](https://github.com/moltate/DSA/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/moltate/DSA/tree/master/0204-count-primes) |
+| [0864-image-overlap](https://github.com/moltate/DSA/tree/master/0864-image-overlap) |
 | [1487-cinema-seat-allocation](https://github.com/moltate/DSA/tree/master/1487-cinema-seat-allocation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/moltate/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2002-stone-game-viii](https://github.com/moltate/DSA/tree/master/2002-stone-game-viii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/moltate/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/moltate/DSA/tree/master/0048-rotate-image) |
+| [0864-image-overlap](https://github.com/moltate/DSA/tree/master/0864-image-overlap) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/moltate/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/moltate/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/moltate/DSA/tree/master/2508-maximum-sum-of-an-hourglass) |
