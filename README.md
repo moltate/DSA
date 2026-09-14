@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/moltate/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/moltate/DSA/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/moltate/DSA/tree/master/0319-bulb-switcher) |
+| [0866-rectangle-overlap](https://github.com/moltate/DSA/tree/master/0866-rectangle-overlap) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/moltate/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2002-stone-game-viii](https://github.com/moltate/DSA/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/moltate/DSA/tree/master/2039-sum-game) |
@@ -226,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/moltate/DSA/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/moltate/DSA/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
