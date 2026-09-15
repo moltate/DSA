@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/moltate/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/moltate/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/moltate/DSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/moltate/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/moltate/DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/moltate/DSA/tree/master/0319-bulb-switcher) |
 | [0866-rectangle-overlap](https://github.com/moltate/DSA/tree/master/0866-rectangle-overlap) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/moltate/DSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/moltate/DSA/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/moltate/DSA/tree/master/0258-add-digits) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/moltate/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/moltate/DSA/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
