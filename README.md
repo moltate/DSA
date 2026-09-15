@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/moltate/DSA/tree/master/0152-maximum-product-subarray) |
 | [0977-distinct-subsequences-ii](https://github.com/moltate/DSA/tree/master/0977-distinct-subsequences-ii) |
 | [2002-stone-game-viii](https://github.com/moltate/DSA/tree/master/2002-stone-game-viii) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/moltate/DSA/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Enumeration
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/moltate/DSA/tree/master/0782-jewels-and-stones) |
 | [0977-distinct-subsequences-ii](https://github.com/moltate/DSA/tree/master/0977-distinct-subsequences-ii) |
 | [2039-sum-game](https://github.com/moltate/DSA/tree/master/2039-sum-game) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/moltate/DSA/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/moltate/DSA/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/moltate/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2039-sum-game](https://github.com/moltate/DSA/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/moltate/DSA/tree/master/2156-stone-game-ix) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/moltate/DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/moltate/DSA/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Counting
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/moltate/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/moltate/DSA/tree/master/0148-sort-list) |
 | [2481-strictly-palindromic-number](https://github.com/moltate/DSA/tree/master/2481-strictly-palindromic-number) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/moltate/DSA/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Backtracking
 |  |
 | ------- |
