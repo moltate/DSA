@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/moltate/DSA/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/moltate/DSA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/moltate/DSA/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/moltate/DSA/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/moltate/DSA/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/moltate/DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/moltate/DSA/tree/master/0268-missing-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/moltate/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/moltate/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/moltate/DSA/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/moltate/DSA/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/moltate/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/moltate/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/moltate/DSA/tree/master/0268-missing-number) |
