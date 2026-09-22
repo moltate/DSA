@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/moltate/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/moltate/DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/moltate/DSA/tree/master/0319-bulb-switcher) |
+| [0400-nth-digit](https://github.com/moltate/DSA/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/moltate/DSA/tree/master/0507-perfect-number) |
 | [0866-rectangle-overlap](https://github.com/moltate/DSA/tree/master/0866-rectangle-overlap) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/moltate/DSA/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/moltate/DSA/tree/master/0268-missing-number) |
+| [0400-nth-digit](https://github.com/moltate/DSA/tree/master/0400-nth-digit) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/moltate/DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Combinatorics
 |  |
