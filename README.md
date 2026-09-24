@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/moltate/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/moltate/DSA/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/moltate/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/moltate/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/moltate/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/moltate/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/moltate/DSA/tree/master/0268-missing-number) |
