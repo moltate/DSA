@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/moltate/DSA/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/moltate/DSA/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/moltate/DSA/tree/master/0507-perfect-number) |
+| [0633-sum-of-square-numbers](https://github.com/moltate/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0866-rectangle-overlap](https://github.com/moltate/DSA/tree/master/0866-rectangle-overlap) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/moltate/DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/moltate/DSA/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/moltate/DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/moltate/DSA/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/moltate/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0633-sum-of-square-numbers](https://github.com/moltate/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/moltate/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/moltate/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/moltate/DSA/tree/master/2481-strictly-palindromic-number) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/moltate/DSA/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/moltate/DSA/tree/master/0400-nth-digit) |
+| [0633-sum-of-square-numbers](https://github.com/moltate/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/moltate/DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/moltate/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Combinatorics
