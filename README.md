@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/moltate/DSA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/moltate/DSA/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/moltate/DSA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/moltate/DSA/tree/master/0048-rotate-image) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/moltate/DSA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/moltate/DSA/tree/master/0036-valid-sudoku) |
 | [0268-missing-number](https://github.com/moltate/DSA/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/moltate/DSA/tree/master/0782-jewels-and-stones) |
