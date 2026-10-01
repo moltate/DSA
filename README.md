@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/moltate/DSA/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/moltate/DSA/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/moltate/DSA/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/moltate/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/moltate/DSA/tree/master/0268-missing-number) |
 | [0864-image-overlap](https://github.com/moltate/DSA/tree/master/0864-image-overlap) |
 | [1487-cinema-seat-allocation](https://github.com/moltate/DSA/tree/master/1487-cinema-seat-allocation) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/moltate/DSA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/moltate/DSA/tree/master/0036-valid-sudoku) |
+| [0217-contains-duplicate](https://github.com/moltate/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/moltate/DSA/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/moltate/DSA/tree/master/0782-jewels-and-stones) |
 | [1188-brace-expansion-ii](https://github.com/moltate/DSA/tree/master/1188-brace-expansion-ii) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/moltate/DSA/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/moltate/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/moltate/DSA/tree/master/0268-missing-number) |
 | [1188-brace-expansion-ii](https://github.com/moltate/DSA/tree/master/1188-brace-expansion-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/moltate/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
