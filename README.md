@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/moltate/DSA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/moltate/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/moltate/DSA/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/moltate/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/moltate/DSA/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/moltate/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/moltate/DSA/tree/master/0217-contains-duplicate) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/moltate/DSA/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/moltate/DSA/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/moltate/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/moltate/DSA/tree/master/0152-maximum-product-subarray) |
 | [0977-distinct-subsequences-ii](https://github.com/moltate/DSA/tree/master/0977-distinct-subsequences-ii) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/moltate/DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
