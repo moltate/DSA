@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/moltate/DSA/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/moltate/DSA/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/moltate/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/moltate/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/moltate/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/moltate/DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/moltate/DSA/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/moltate/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/moltate/DSA/tree/master/0171-excel-sheet-column-number) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/moltate/DSA/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/moltate/DSA/tree/master/0040-combination-sum-ii) |
 | [1188-brace-expansion-ii](https://github.com/moltate/DSA/tree/master/1188-brace-expansion-ii) |
 ## Union-Find
@@ -353,4 +356,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/moltate/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/moltate/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
