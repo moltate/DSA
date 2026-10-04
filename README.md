@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/moltate/DSA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/moltate/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/moltate/DSA/tree/master/0066-plus-one) |
+| [0119-pascals-triangle-ii](https://github.com/moltate/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/moltate/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/moltate/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/moltate/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/moltate/DSA/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/moltate/DSA/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/moltate/DSA/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/moltate/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/moltate/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/moltate/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/moltate/DSA/tree/master/0152-maximum-product-subarray) |
