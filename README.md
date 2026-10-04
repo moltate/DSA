@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/moltate/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/moltate/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/moltate/DSA/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/moltate/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0977-distinct-subsequences-ii](https://github.com/moltate/DSA/tree/master/0977-distinct-subsequences-ii) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/moltate/DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/moltate/DSA/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/moltate/DSA/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/moltate/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/moltate/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0678-valid-parenthesis-string](https://github.com/moltate/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0782-jewels-and-stones](https://github.com/moltate/DSA/tree/master/0782-jewels-and-stones) |
 | [0977-distinct-subsequences-ii](https://github.com/moltate/DSA/tree/master/0977-distinct-subsequences-ii) |
 | [1188-brace-expansion-ii](https://github.com/moltate/DSA/tree/master/1188-brace-expansion-ii) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/moltate/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/moltate/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1487-cinema-seat-allocation](https://github.com/moltate/DSA/tree/master/1487-cinema-seat-allocation) |
 | [2039-sum-game](https://github.com/moltate/DSA/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/moltate/DSA/tree/master/2156-stone-game-ix) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/moltate/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/moltate/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/moltate/DSA/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/moltate/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1188-brace-expansion-ii](https://github.com/moltate/DSA/tree/master/1188-brace-expansion-ii) |
 ## Design
 |  |
@@ -360,4 +364,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/moltate/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/moltate/DSA/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/moltate/DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
