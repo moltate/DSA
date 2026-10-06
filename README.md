@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/moltate/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0782-jewels-and-stones](https://github.com/moltate/DSA/tree/master/0782-jewels-and-stones) |
 | [0886-score-of-parentheses](https://github.com/moltate/DSA/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/moltate/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0977-distinct-subsequences-ii](https://github.com/moltate/DSA/tree/master/0977-distinct-subsequences-ii) |
 | [1188-brace-expansion-ii](https://github.com/moltate/DSA/tree/master/1188-brace-expansion-ii) |
 | [2039-sum-game](https://github.com/moltate/DSA/tree/master/2039-sum-game) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/moltate/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/moltate/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/moltate/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1487-cinema-seat-allocation](https://github.com/moltate/DSA/tree/master/1487-cinema-seat-allocation) |
 | [2039-sum-game](https://github.com/moltate/DSA/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/moltate/DSA/tree/master/2156-stone-game-ix) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/moltate/DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/moltate/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/moltate/DSA/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/moltate/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1188-brace-expansion-ii](https://github.com/moltate/DSA/tree/master/1188-brace-expansion-ii) |
 ## Design
 |  |
@@ -372,4 +375,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/moltate/DSA/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/moltate/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/moltate/DSA/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/moltate/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
