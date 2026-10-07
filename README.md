@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/moltate/DSA/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/moltate/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/moltate/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0301-remove-invalid-parentheses](https://github.com/moltate/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/moltate/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0782-jewels-and-stones](https://github.com/moltate/DSA/tree/master/0782-jewels-and-stones) |
 | [0886-score-of-parentheses](https://github.com/moltate/DSA/tree/master/0886-score-of-parentheses) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/moltate/DSA/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/moltate/DSA/tree/master/0040-combination-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/moltate/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/moltate/DSA/tree/master/1188-brace-expansion-ii) |
 ## Union-Find
 |  |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/moltate/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/moltate/DSA/tree/master/1188-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
