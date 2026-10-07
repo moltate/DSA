@@ -1,31 +1,61 @@
 class Solution {
+    Set<String> result = new HashSet<>();
     public List<String> removeInvalidParentheses(String s) {
-        List<String> ans = new ArrayList<>();
-        remove(s, ans, 0, 0, new char[]{'(', ')'});
-        return ans;
-    }
+        int left = 0;
+        int right = 0;
+        for (char ch : s.toCharArray()) {
 
-    void remove(String s, List<String> ans, int i, int j, char[] p) {
-        int count = 0;
-        for (int k = i; k < s.length(); k++) {
-            if (s.charAt(k) == p[0]) count++;
-            if (s.charAt(k) == p[1]) count--;
+            if (ch == '(') {
+                left++;
+            } 
+            else if (ch == ')') {
 
-            if (count < 0) {
-                for (int x = j; x <= k; x++) {
-                    if (s.charAt(x) == p[1] && (x == j || s.charAt(x - 1) != p[1])) {
-                        remove(s.substring(0, x) + s.substring(x + 1), ans, k, x, p);
-                    }
+                if (left > 0) {
+                    left--;
+                } else {
+                    right++;
                 }
-                return;
             }
         }
+        dfs(s, 0, left, right, 0, new StringBuilder());
+        return new ArrayList<>(result);
+    }
 
-        String rev = new StringBuilder(s).reverse().toString();
+    private void dfs(String s, int index, int leftRemove, int rightRemove, int balance, StringBuilder current) {
+        if (balance < 0) {
+            return;
+        }
+        if (index == s.length()) {
+            if (leftRemove == 0 && rightRemove == 0 && balance == 0) {
+                result.add(current.toString());
+            }
+            return;
+        }
+        char ch = s.charAt(index);
+        if (ch == '(' && leftRemove > 0) {
+            dfs(s, index + 1,
+                leftRemove - 1,
+                rightRemove,
+                balance,
+                current);
+        }
 
-        if (p[0] == '(')
-            remove(rev, ans, 0, 0, new char[]{')', '('});
-        else
-            ans.add(rev);
+        if (ch == ')' && rightRemove > 0) {
+            dfs(s, index + 1, leftRemove, rightRemove - 1, balance, current);
+        }
+        current.append(ch);
+
+        if (ch == '(') {
+
+            dfs(s, index + 1, leftRemove, rightRemove, balance + 1, current);
+
+        } else if (ch == ')') {
+
+            dfs(s, index + 1, leftRemove, rightRemove, balance - 1, current);
+
+        } else {
+            dfs(s, index + 1, leftRemove, rightRemove, balance, current);
+        }
+        current.deleteCharAt(current.length() - 1);
     }
 }
