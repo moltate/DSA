@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/moltate/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/moltate/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/moltate/DSA/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/moltate/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/moltate/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/moltate/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/moltate/DSA/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/moltate/DSA/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/moltate/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/moltate/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
