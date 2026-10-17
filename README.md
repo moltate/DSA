@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/moltate/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/moltate/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/moltate/DSA/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/moltate/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/moltate/DSA/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/moltate/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3799-unique-3-digit-even-numbers](https://github.com/moltate/DSA/tree/master/3799-unique-3-digit-even-numbers) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/moltate/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/moltate/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/moltate/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/moltate/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/moltate/DSA/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/moltate/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/moltate/DSA/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1188-brace-expansion-ii](https://github.com/moltate/DSA/tree/master/1188-brace-expansion-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/moltate/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/moltate/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/moltate/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/moltate/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
