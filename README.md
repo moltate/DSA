@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/moltate/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/moltate/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/moltate/DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/moltate/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/moltate/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/moltate/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/moltate/DSA/tree/master/0171-excel-sheet-column-number) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/moltate/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/moltate/DSA/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/moltate/DSA/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/moltate/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -421,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/moltate/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/moltate/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/moltate/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
