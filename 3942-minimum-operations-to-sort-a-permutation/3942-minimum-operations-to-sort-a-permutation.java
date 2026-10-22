@@ -1,23 +1,21 @@
 class Solution {
     public int minOperations(int[] nums) {
-        int n = nums.length, p = 0;
-        for(int i =0; i < n; i++){
-            if (nums[i] == 0) {
-                p = i;
-                break;
-            }
+        int n = nums.length;
+        if (n == 1) return 0;
+        int start = 0;
+        while (nums[start] != 0) {
+            start++;
         }
-        boolean increase = true, decrease = true;
-        for(int i = 0; i<n; i++){
-            int next = nums[(i+1) % n];
-            if(next != (nums[i] + 1) % n) increase = false;
-            if(next != (nums[i] - 1 + n) % n) decrease = false;
+        boolean asc = true, desc = true;
+        for (int i = 1; i < n; i++) {
+            int value = nums[(start + i) % n];
+            if (value != i) asc = false;
+            if (value != n - i) desc = false;
+            if (!asc && !desc) return -1;
         }
-        int ans = Integer.MAX_VALUE;
-        if(increase)
-            ans = Math.min(ans, Math.min(p, n - p + 2));
-        if(decrease)
-            ans = Math.min(ans, Math.min(p+2, n - p));
-        return ans == Integer.MAX_VALUE ? -1 : ans;
+        if (asc) {
+            return Math.min(start, n - start + 2);
+        }
+        return Math.min(n - start, start + 2);
     }
 }
