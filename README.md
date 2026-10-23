@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/moltate/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/moltate/DSA/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/moltate/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/moltate/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/moltate/DSA/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/moltate/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3799-unique-3-digit-even-numbers](https://github.com/moltate/DSA/tree/master/3799-unique-3-digit-even-numbers) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-cinema-seat-allocation](https://github.com/moltate/DSA/tree/master/1487-cinema-seat-allocation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/moltate/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/moltate/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/moltate/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/moltate/DSA/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
