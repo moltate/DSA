@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/moltate/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/moltate/DSA/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/moltate/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/moltate/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/moltate/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/moltate/DSA/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/moltate/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/moltate/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/moltate/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/moltate/DSA/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/moltate/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/moltate/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/moltate/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/moltate/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/moltate/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/moltate/DSA/tree/master/1254-number-of-closed-islands) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/moltate/DSA/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/moltate/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/moltate/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/moltate/DSA/tree/master/1188-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/moltate/DSA/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/moltate/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
 |  |
 | ------- |
