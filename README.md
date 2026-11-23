@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-image-overlap](https://github.com/moltate/DSA/tree/master/0864-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/moltate/DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/moltate/DSA/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/moltate/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/moltate/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1487-cinema-seat-allocation](https://github.com/moltate/DSA/tree/master/1487-cinema-seat-allocation) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/moltate/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/moltate/DSA/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/moltate/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0866-rectangle-overlap](https://github.com/moltate/DSA/tree/master/0866-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/moltate/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/moltate/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/moltate/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/moltate/DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/moltate/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/moltate/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/moltate/DSA/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/moltate/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/moltate/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/moltate/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [1352-product-of-the-last-k-numbers](https://github.com/moltate/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -540,4 +544,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/moltate/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/moltate/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
