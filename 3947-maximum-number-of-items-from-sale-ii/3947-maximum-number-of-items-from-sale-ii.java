@@ -25,15 +25,15 @@ class Solution {
             }
         }
         deals.sort((a, b) -> Integer.compare(a[0], b[0]));
-        int answer = 0;
+        int ans = 0;
         for (int[] deal : deals) {
             int price = deal[0];
             int available = deal[1];
             int buy = Math.min(available, budget / price);
-            answer += buy * 2;
+            ans += buy * 2;
             budget -= buy * price;
         }
-        answer += budget / minPrice;
-        return answer;
+        ans += budget / minPrice;
+        return ans;
     }
 }
